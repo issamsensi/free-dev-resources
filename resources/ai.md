@@ -2,7 +2,7 @@
 
 Curated AI APIs, inference providers, model routers, speech services, and AI developer tools with an official free tier, free credits, or trial access.
 
-> Last reviewed: **2026-08-18**. Limits and model availability can change frequently.
+> Last reviewed: **2026-08-20**. Limits and model availability can change frequently.
 
 ## LLM APIs & Model Routers
 
@@ -156,14 +156,56 @@ Run open models locally and optionally use Ollama-hosted cloud models.
 - **Pricing:** https://ollama.com/pricing
 - **Last verified:** 2026-08-18
 
-## Needs verification
+## Community-reported offers — needs independent verification
 
-These services are interesting candidates but are intentionally **not marked as verified yet**. Before adding them to the main list, verify ownership, terms, privacy, limits, and whether the free offer is official and sustainable.
+The following services have been tested or reported by contributors, but their offers have not yet been independently verified against durable official pricing/terms pages. Treat limits and credits as subject to change.
 
-- AgentRouter — https://agentrouter.org/
-- SeekAI — https://seekai.cc/
-- Nara Router — https://router.bynara.id/
-- Dahl Inference — https://inference.dahl.global/
-- OrcaRouter — https://www.orcarouter.ai/
-- LLM7 — https://llm7.io/
-- TokenGate — https://tokengate-cqt9ivzs.manus.space/
+### AgentRouter
+
+AI model router with GitHub-based signup.
+
+- **Reported offer:** **$125 in AI credits** after signing in with GitHub
+- **Type:** 🎁 Free Credits
+- **Official link:** https://agentrouter.org/
+- **Status:** ⚠️ Needs independent verification
+- **Last reported:** 2026-08-20
+
+### SeekAI
+
+AI model/API platform with GitHub-based signup.
+
+- **Reported offer:** **$200 in credits** after signing in with GitHub
+- **Type:** 🎁 Free Credits
+- **Official link:** https://seekai.cc/
+- **Status:** ⚠️ Needs independent verification
+- **Last reported:** 2026-08-20
+
+### Nara Router
+
+AI model router with a large daily free-token allowance.
+
+- **Reported offer:** **7 million tokens per day**
+- **Type:** 🆓 Daily Free Allowance
+- **Official link:** https://router.bynara.id/
+- **Status:** ⚠️ Needs independent verification
+- **Last reported:** 2026-08-20
+
+### Dahl Inference
+
+Hosted AI inference service.
+
+- **Reported offer:** **100 million free tokens**
+- **Type:** 🎁 Free Token Allocation
+- **Official link:** https://inference.dahl.global/
+- **Status:** ⚠️ Needs independent verification
+- **Last reported:** 2026-08-20
+
+### TokenGate
+
+AI API/router service.
+
+- **Reported offer:** **$60 in credits**
+- **Type:** 🎁 Free Credits
+- **Official link:** https://tokengate-cqt9ivzs.manus.space/
+- **Status:** ⚠️ Needs independent verification
+- **Last reported:** 2026-08-20
